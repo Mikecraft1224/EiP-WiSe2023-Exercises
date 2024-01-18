@@ -60,8 +60,8 @@ def hidoku(board):
                 ret = hidokuHelper(board, n + 1, nx, ny)
                 if ret:
                     return ret
-                # if not (nx, ny) in preFilled.values():
-                #     board[ny][nx] = 0
+                if not (nx, ny) in preFilled.values():
+                    board[ny][nx] = 0
         return False
 
     def valid(board, n, x, y):

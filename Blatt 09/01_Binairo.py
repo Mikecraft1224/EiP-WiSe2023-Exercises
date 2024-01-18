@@ -46,28 +46,26 @@ def binairo(board):
             if ret:
                 return ret
 
-        # board[y][x] = 0
+        board[y][x] = 0
         return False
     
     def valid(board, x, y):
         # more than 2 in a row
         for offset in range(-2, 1):
-            if x + offset < 0 or x + offset >= len(board):
+            if x + offset < 0 or x + offset + 2 >= len(board):
                 continue
-            if board[y][x + offset] == board[y][x] and board[y][x + offset + 1] == board[y][x]:
+            if board[y][x + offset] == board[y][x + offset + 1] and board[y][x + offset] == board[y][x + offset + 2]:
                 return False
             
         # more than 2 in a column
         for offset in range(-2, 1):
-            if y + offset < 0 or y + offset >= len(board):
+            if y + offset < 0 or y + offset + 2 >= len(board):
                 continue
-            if board[y + offset][x] == board[y][x] and board[y + offset + 1][x] == board[y][x]:
+            if board[y + offset][x] == board[y + offset + 1][x] and board[y + offset][x] == board[y + offset + 2][x]:
                 return False
             
         # more than n/2 in a row
-        if board[y].count(1) > len(board) / 2:
-            return False
-        if board[y].count(2) > len(board) / 2:
+        if board[y].count(1) > len(board) / 2 or board[y].count(2) > len(board) / 2:
             return False
         
         # more than n/2 in a column
