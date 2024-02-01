@@ -1,0 +1,24 @@
+{
+    "Supermarkt 5": {
+        "Mortadella": {
+            "Menge": 1,
+            "Preis": 4.46
+        },
+        "Honigmelone": {
+            "Menge": 1,
+            "Preis": 0.88
+        },
+        "Bananen": {
+            "Menge": 5,
+            "Preis": 3.02
+        },
+        "Milch": {
+            "Menge": 4,
+            "Preis": 1.5
+        },
+        "Orangen": {
+            "Menge": 9,
+            "Preis": 1.0
+        }
+    }
+}

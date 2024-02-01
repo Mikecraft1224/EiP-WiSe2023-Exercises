@@ -1,0 +1,90 @@
+{
+    "Supermarkt 5": {
+        "Erdbeeren": {
+            "Menge": 2,
+            "Preis": 0.78
+        },
+        "Hafermilch": {
+            "Menge": 7,
+            "Preis": 3.23
+        },
+        "Joghurt": {
+            "Menge": 1,
+            "Preis": 0.61
+        },
+        "Reis": {
+            "Menge": 4,
+            "Preis": 4.45
+        },
+        "Karotten": {
+            "Menge": 2,
+            "Preis": 1.44
+        },
+        "Zwiebeln": {
+            "Menge": 2,
+            "Preis": 3.98
+        },
+        "Orangen": {
+            "Menge": 10,
+            "Preis": 3.84
+        },
+        "Nudeln": {
+            "Menge": 8,
+            "Preis": 1.23
+        },
+        "Kaffee": {
+            "Menge": 1,
+            "Preis": 0.97
+        },
+        "Milch": {
+            "Menge": 10,
+            "Preis": 0.67
+        }
+    },
+    "Supermarkt 2": {
+        "Butter": {
+            "Menge": 5,
+            "Preis": 4.51
+        },
+        "Zwiebeln": {
+            "Menge": 7,
+            "Preis": 2.8
+        },
+        "Kaffee": {
+            "Menge": 9,
+            "Preis": 0.64
+        },
+        "Kartoffeln": {
+            "Menge": 6,
+            "Preis": 4.35
+        },
+        "Brot": {
+            "Menge": 9,
+            "Preis": 2.54
+        },
+        "Tomaten": {
+            "Menge": 3,
+            "Preis": 0.54
+        },
+        "Balsamico": {
+            "Menge": 9,
+            "Preis": 1.3
+        },
+        "Thunfisch": {
+            "Menge": 3,
+            "Preis": 0.58
+        },
+        "Mortadella": {
+            "Menge": 10,
+            "Preis": 0.69
+        },
+        "Joghurt": {
+            "Menge": 6,
+            "Preis": 4.91
+        },
+        "Schokolade": {
+            "Menge": 7,
+            "Preis": 1.4
+        }
+    }
+}

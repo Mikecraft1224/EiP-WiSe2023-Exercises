@@ -1,0 +1,82 @@
+{
+    "Supermarkt 2": {
+        "Avocado": {
+            "Menge": 3,
+            "Preis": 3.21
+        },
+        "Milch": {
+            "Menge": 9,
+            "Preis": 4.32
+        },
+        "Hafermilch": {
+            "Menge": 1,
+            "Preis": 1.7
+        },
+        "Bananen": {
+            "Menge": 8,
+            "Preis": 4.36
+        },
+        "Brot": {
+            "Menge": 3,
+            "Preis": 2.4
+        },
+        "Haferflocken": {
+            "Menge": 3,
+            "Preis": 1.4
+        },
+        "Mortadella": {
+            "Menge": 6,
+            "Preis": 0.65
+        },
+        "Tomaten": {
+            "Menge": 3,
+            "Preis": 4.48
+        },
+        "Kirschen": {
+            "Menge": 4,
+            "Preis": 3.49
+        },
+        "Linsen": {
+            "Menge": 1,
+            "Preis": 2.01
+        },
+        "Eier": {
+            "Menge": 6,
+            "Preis": 3.09
+        },
+        "Joghurt": {
+            "Menge": 1,
+            "Preis": 3.44
+        },
+        "Zwiebeln": {
+            "Menge": 6,
+            "Preis": 1.93
+        },
+        "Nudeln": {
+            "Menge": 6,
+            "Preis": 4.22
+        }
+    },
+    "Supermarkt 5": {
+        "Avocado": {
+            "Menge": 5,
+            "Preis": 1.68
+        },
+        "Milch": {
+            "Menge": 1,
+            "Preis": 0.76
+        },
+        "Schokolade": {
+            "Menge": 5,
+            "Preis": 2.68
+        },
+        "Linsen": {
+            "Menge": 10,
+            "Preis": 1.58
+        },
+        "Mortadella": {
+            "Menge": 9,
+            "Preis": 1.35
+        }
+    }
+}

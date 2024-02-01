@@ -1,0 +1,22 @@
+{
+    "Supermarkt 2": {
+        "Karotten": {
+            "Menge": 10,
+            "Preis": 4.15
+        },
+        "Kaffee": {
+            "Menge": 3,
+            "Preis": 2.35
+        }
+    },
+    "Supermarkt 1": {
+        "Thunfisch": {
+            "Menge": 5,
+            "Preis": 1.67
+        },
+        "Reis": {
+            "Menge": 1,
+            "Preis": 0.84
+        }
+    }
+}

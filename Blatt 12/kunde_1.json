@@ -1,0 +1,60 @@
+{
+    "Supermarkt 1": {
+        "Joghurt": {
+            "Menge": 4,
+            "Preis": 2.72
+        },
+        "Honigmelone": {
+            "Menge": 2,
+            "Preis": 1.54
+        },
+        "Mortadella": {
+            "Menge": 1,
+            "Preis": 3.88
+        },
+        "Bananen": {
+            "Menge": 7,
+            "Preis": 3.03
+        },
+        "Milch": {
+            "Menge": 1,
+            "Preis": 2.88
+        },
+        "Orangen": {
+            "Menge": 1,
+            "Preis": 3.88
+        },
+        "Kartoffeln": {
+            "Menge": 7,
+            "Preis": 3.44
+        },
+        "Tee": {
+            "Menge": 5,
+            "Preis": 3.09
+        },
+        "Kirschen": {
+            "Menge": 10,
+            "Preis": 4.21
+        },
+        "Karotten": {
+            "Menge": 1,
+            "Preis": 2.16
+        },
+        "Eier": {
+            "Menge": 1,
+            "Preis": 2.17
+        },
+        "Balsamico": {
+            "Menge": 8,
+            "Preis": 2.3
+        },
+        "Erdbeeren": {
+            "Menge": 4,
+            "Preis": 2.18
+        },
+        "Brot": {
+            "Menge": 2,
+            "Preis": 4.91
+        }
+    }
+}

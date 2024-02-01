@@ -1,0 +1,96 @@
+{
+    "Supermarkt 2": {
+        "Bananen": {
+            "Menge": 5,
+            "Preis": 0.5
+        },
+        "Karotten": {
+            "Menge": 9,
+            "Preis": 1.44
+        },
+        "Kaffee": {
+            "Menge": 4,
+            "Preis": 2.55
+        },
+        "Gouda": {
+            "Menge": 6,
+            "Preis": 2.34
+        },
+        "Linsen": {
+            "Menge": 10,
+            "Preis": 3.97
+        }
+    },
+    "Supermarkt 1": {
+        "Honigmelone": {
+            "Menge": 5,
+            "Preis": 1.78
+        },
+        "Tee": {
+            "Menge": 2,
+            "Preis": 3.85
+        },
+        "Zwiebeln": {
+            "Menge": 10,
+            "Preis": 3.27
+        },
+        "Balsamico": {
+            "Menge": 5,
+            "Preis": 4.18
+        },
+        "Kaffee": {
+            "Menge": 6,
+            "Preis": 3.21
+        }
+    },
+    "Supermarkt 3": {
+        "Bananen": {
+            "Menge": 5,
+            "Preis": 0.92
+        },
+        "Brokkoli": {
+            "Menge": 7,
+            "Preis": 2.77
+        },
+        "Hafermilch": {
+            "Menge": 6,
+            "Preis": 1.53
+        },
+        "Reis": {
+            "Menge": 3,
+            "Preis": 3.76
+        },
+        "Honig": {
+            "Menge": 8,
+            "Preis": 0.97
+        },
+        "Mortadella": {
+            "Menge": 7,
+            "Preis": 1.83
+        },
+        "Karotten": {
+            "Menge": 9,
+            "Preis": 4.36
+        },
+        "Nudeln": {
+            "Menge": 1,
+            "Preis": 4.1
+        },
+        "Eier": {
+            "Menge": 5,
+            "Preis": 1.35
+        },
+        "Thunfisch": {
+            "Menge": 5,
+            "Preis": 0.59
+        },
+        "Honigmelone": {
+            "Menge": 4,
+            "Preis": 1.63
+        },
+        "Linsen": {
+            "Menge": 3,
+            "Preis": 3.54
+        }
+    }
+}

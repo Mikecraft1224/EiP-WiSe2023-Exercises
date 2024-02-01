@@ -1,0 +1,156 @@
+{
+    "Supermarkt 5": {
+        "Reis": {
+            "Menge": 6,
+            "Preis": 2.53
+        },
+        "Avocado": {
+            "Menge": 10,
+            "Preis": 1.18
+        },
+        "Gouda": {
+            "Menge": 4,
+            "Preis": 1.53
+        },
+        "Milch": {
+            "Menge": 10,
+            "Preis": 3.42
+        },
+        "Brot": {
+            "Menge": 4,
+            "Preis": 1.84
+        },
+        "Zwiebeln": {
+            "Menge": 4,
+            "Preis": 4.96
+        },
+        "Schokolade": {
+            "Menge": 10,
+            "Preis": 2.22
+        },
+        "Bananen": {
+            "Menge": 6,
+            "Preis": 3.55
+        },
+        "Thunfisch": {
+            "Menge": 5,
+            "Preis": 1.96
+        },
+        "Linsen": {
+            "Menge": 10,
+            "Preis": 4.29
+        },
+        "Erdbeeren": {
+            "Menge": 9,
+            "Preis": 4.81
+        },
+        "Haferflocken": {
+            "Menge": 5,
+            "Preis": 4.65
+        },
+        "Nudeln": {
+            "Menge": 3,
+            "Preis": 1.04
+        }
+    },
+    "Supermarkt 1": {
+        "Kartoffeln": {
+            "Menge": 6,
+            "Preis": 0.94
+        },
+        "Mortadella": {
+            "Menge": 3,
+            "Preis": 1.76
+        },
+        "Milch": {
+            "Menge": 8,
+            "Preis": 2.88
+        },
+        "Kaffee": {
+            "Menge": 5,
+            "Preis": 0.56
+        },
+        "Schokolade": {
+            "Menge": 7,
+            "Preis": 1.96
+        },
+        "Erdbeeren": {
+            "Menge": 8,
+            "Preis": 2.62
+        },
+        "Zwiebeln": {
+            "Menge": 5,
+            "Preis": 1.3
+        },
+        "Orangen": {
+            "Menge": 3,
+            "Preis": 3.5
+        },
+        "Karotten": {
+            "Menge": 9,
+            "Preis": 2.57
+        },
+        "Hafermilch": {
+            "Menge": 2,
+            "Preis": 4.18
+        },
+        "Salat": {
+            "Menge": 4,
+            "Preis": 4.53
+        }
+    },
+    "Supermarkt 3": {
+        "Brokkoli": {
+            "Menge": 10,
+            "Preis": 1.59
+        },
+        "Kartoffeln": {
+            "Menge": 2,
+            "Preis": 2.96
+        },
+        "Tee": {
+            "Menge": 7,
+            "Preis": 4.75
+        },
+        "Kirschen": {
+            "Menge": 3,
+            "Preis": 2.8
+        },
+        "Milch": {
+            "Menge": 4,
+            "Preis": 1.09
+        },
+        "Eier": {
+            "Menge": 6,
+            "Preis": 0.85
+        },
+        "Honig": {
+            "Menge": 9,
+            "Preis": 1.54
+        },
+        "Joghurt": {
+            "Menge": 5,
+            "Preis": 2.26
+        },
+        "Thunfisch": {
+            "Menge": 4,
+            "Preis": 2.73
+        },
+        "Zwiebeln": {
+            "Menge": 1,
+            "Preis": 2.34
+        },
+        "Butter": {
+            "Menge": 4,
+            "Preis": 4.25
+        },
+        "Kaffee": {
+            "Menge": 6,
+            "Preis": 4.57
+        },
+        "Schokolade": {
+            "Menge": 9,
+            "Preis": 2.05
+        }
+    }
+}

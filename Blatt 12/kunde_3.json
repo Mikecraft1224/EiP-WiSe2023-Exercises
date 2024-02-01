@@ -1,0 +1,24 @@
+{
+    "Supermarkt 4": {
+        "Kartoffeln": {
+            "Menge": 7,
+            "Preis": 2.5
+        },
+        "Hafermilch": {
+            "Menge": 5,
+            "Preis": 2.04
+        },
+        "Erdbeeren": {
+            "Menge": 4,
+            "Preis": 4.57
+        },
+        "Brot": {
+            "Menge": 8,
+            "Preis": 2.14
+        },
+        "Butter": {
+            "Menge": 9,
+            "Preis": 0.7
+        }
+    }
+}

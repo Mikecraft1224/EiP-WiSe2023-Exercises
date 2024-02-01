@@ -1,0 +1,102 @@
+{
+    "Supermarkt 4": {
+        "Brokkoli": {
+            "Menge": 7,
+            "Preis": 3.15
+        },
+        "Brot": {
+            "Menge": 8,
+            "Preis": 2.61
+        },
+        "Joghurt": {
+            "Menge": 4,
+            "Preis": 3.96
+        },
+        "Mortadella": {
+            "Menge": 4,
+            "Preis": 2.99
+        },
+        "Honigmelone": {
+            "Menge": 6,
+            "Preis": 4.3
+        },
+        "Kaffee": {
+            "Menge": 3,
+            "Preis": 2.76
+        },
+        "Tomaten": {
+            "Menge": 5,
+            "Preis": 3.86
+        },
+        "Salat": {
+            "Menge": 4,
+            "Preis": 0.65
+        },
+        "Butter": {
+            "Menge": 1,
+            "Preis": 3.59
+        },
+        "Linsen": {
+            "Menge": 4,
+            "Preis": 1.41
+        },
+        "Tee": {
+            "Menge": 8,
+            "Preis": 1.15
+        },
+        "Nudeln": {
+            "Menge": 10,
+            "Preis": 3.1
+        },
+        "Hafermilch": {
+            "Menge": 1,
+            "Preis": 4.94
+        },
+        "Thunfisch": {
+            "Menge": 6,
+            "Preis": 1.52
+        },
+        "Erdbeeren": {
+            "Menge": 8,
+            "Preis": 4.54
+        }
+    },
+    "Supermarkt 2": {
+        "Salat": {
+            "Menge": 4,
+            "Preis": 1.23
+        },
+        "Thunfisch": {
+            "Menge": 8,
+            "Preis": 3.58
+        },
+        "Linsen": {
+            "Menge": 4,
+            "Preis": 0.87
+        },
+        "Hafermilch": {
+            "Menge": 3,
+            "Preis": 1.81
+        },
+        "Milch": {
+            "Menge": 7,
+            "Preis": 1.76
+        },
+        "Avocado": {
+            "Menge": 2,
+            "Preis": 2.18
+        },
+        "Reis": {
+            "Menge": 10,
+            "Preis": 0.63
+        },
+        "Bananen": {
+            "Menge": 9,
+            "Preis": 2.97
+        },
+        "Karotten": {
+            "Menge": 5,
+            "Preis": 4.06
+        }
+    }
+}
